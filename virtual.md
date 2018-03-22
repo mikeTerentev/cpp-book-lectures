@@ -9,24 +9,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#наследование">Наследование</a>
-<ul>
-<li><a href="#виртуальные-функции">Виртуальные функции</a></li>
-<li><a href="#механизм-виртуалньой-функции">Механизм виртуалньой функции</a></li>
-<li><a href="#пример">Пример</a></li>
-</ul>
-</li>
-</ul>
-
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h1 id="наследование">Наследование</h1>
+  <div class="stackedit__html"><h1 id="наследование">Наследование</h1>
 <h2 id="виртуальные-функции">Виртуальные функции</h2>
 <p>Пусть у нас есть два класса :</p>
 <pre class=" language-c"><code class="prism ++ language-c"> <span class="token keyword">struct</span> base<span class="token punctuation">{</span>
@@ -156,9 +139,7 @@ d<span class="token punctuation">.</span>base<span class="token punctuation">:</
 <span class="token punctuation">}</span><span class="token punctuation">;</span>
 
 </code></pre>
-
-    </div>
-  </div>
+</div>
 </body>
 
 </html>
